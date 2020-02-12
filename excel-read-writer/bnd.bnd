@@ -1,0 +1,8 @@
+@poi-ooxml-[0-9]*.jar!/org/apache/poi/xssf/usermodel/*,\:
+@poi-ooxml-[0-9]*.jar!/org/apache/poi/*,\:
+@junit-[0-9]*.jar!/junit/framework/*,\
+@junit-[0-9]*.jar!/junit/textui/*,\
+@junit-[0-9]*.jar!/junit/runner/*,\
+@poi-scratchpad-[0-9]*.jar!/org/apache/poi/*,\
+@poi-[0-9]*.jar!/org/apache/poi/*,\
+@xmlbeans-[0-9]*.jar!/org/apache/xmlbeans/*,\
